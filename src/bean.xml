@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- copy following bean DDT(Data Defination Type) from (core.html file)=> go to 
+D:\ADVANCE JAVA Work\Spring IOC\External JAR's spring-framework-5.0.5.RELEASE\
+docs\spring-framework-reference\core.html
+And paste here
+ -->
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd">
+        
+        <bean id="stu" class="com.model.Student"> </bean> 
+ </beans>
